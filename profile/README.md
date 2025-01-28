@@ -1,12 +1,17 @@
+## Our Work
+
+We build tools for workers, tenants, advocacy organizations, and other audiences. Check out some of our recent projects:
+
+- 🏠 [California Rent Calculator](https://tenantprotections.org)
+- 📄 [Contract Worker Disparity Project](https://contractwork.techequitycollaborative.org)
+
+If you're interested in contributing to any of our projects, please reach out to info@techequity.us.
+
 ## About TechEquity
 
 TechEquity was founded in 2016 to answer a simple but ambitious question: what would it take for the growth of the tech industry to benefit everyone? We raise public consciousness about economic equity issues resulting from the tech industry’s products and practices and advocate for change that ensures tech’s evolution benefits everyone. 
 
 If you'd like to learn more about us, visit [our website](https://techequity.us).
-
-## Our Work
-We make open data resources for workers, tenants, advocacy organizations, and other audiences. If you're interested in contributing to any of our projects, please reach out to info@techequity.us.
-
 
 <!--
 
