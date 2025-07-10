@@ -6,7 +6,6 @@ We build tools for workers, tenants, advocacy organizations, and other audiences
 - 🏠 [California Rent Calculator](https://tenantprotections.org)
 - 📄 [Contract Worker Disparity Project](https://contractwork.techequitycollaborative.org)
 
-If you're interested in contributing to any of our projects, please reach out to info@techequity.us.
 
 ## About TechEquity
 
